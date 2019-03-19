@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CardQuizGame</string>
+    <string name="card_quiz_game">Card Quiz Game!</string>
+    <string name="splash_icon">Splash Icon</string>
+</resources>
